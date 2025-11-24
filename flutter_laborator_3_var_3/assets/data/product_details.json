@@ -1,0 +1,79 @@
+{
+  "product": {
+    "id": "hm_short_dress_black_01",
+    "title": "Short dress",
+    "brand": "H&M",
+    "description": "Short dress in soft cotton jersey with decorative buttons down the front and a wide, frill-trimmed neckline.",
+    "price": 19.99,
+    "currency": "USD",
+    "rating": 4.8,
+    "reviewsCount": 10,
+    "colors": [
+      {
+        "name": "Black",
+        "hex": "#000000",
+        "images": [
+          "https://www.inheritco.com/cdn/shop/files/simona-midi-sport-dress-ff-dresses-gray-xs-32144532176983.jpg?v=1747492540&width=2343",
+          "https://www.thedressoutlet.com/cdn/shop/files/43172_1.jpg?v=1731945128",
+          "https://www.thedressoutlet.com/cdn/shop/files/43172_1.jpg?v=1731945128",
+          "https://www.thedressoutlet.com/cdn/shop/files/43172_1.jpg?v=1731945128"
+        ]
+      },
+      {
+        "name": "Beige",
+        "hex": "#F5F5DC",
+        "images": [
+          "https://theneguide.com/wp-content/uploads/2023/02/Jess-Ann-Kirby-cute-warm-winter-outfit-black-jeans-stand-camilla-coat-1333.jpg"
+        ]
+      }
+    ],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "shippingInfo": {
+      "delivery": "Standard delivery in 2-5 business days.",
+      "returns": "Free returns within 30 days."
+    },
+    "support": {
+      "contactEmail": "support@hm.com",
+      "faqUrl": "https://www2.hm.com/en_us/customer-service.html"
+    },
+    "actions": {
+      "addToCart": true,
+      "addToWishlist": true,
+      "share": true
+    }
+  },
+  "relatedProducts": [
+    {
+      "id": "evening_dress_01",
+      "title": "Evening Dress",
+      "brand": "Dorothy Perkins",
+      "price": 12,
+      "oldPrice": 15,
+      "currency": "USD",
+      "discount": "-20%",
+      "rating": 4.7,
+      "reviewsCount": 10,
+      "image": "https://i0.wp.com/greenweddingshoes.com/wp-content/uploads/2024/06/trendy-boxer-shorts-classy-trench-coat-cute-travel-airport-outfit-ideas.jpeg?fit=728,9999"
+    },
+    {
+      "id": "tshirt_sailing_01",
+      "title": "T-Shirt Sailing",
+      "brand": "Mango Boy",
+      "price": 10,
+      "currency": "USD",
+      "rating": 0,
+      "reviewsCount": 0,
+      "image": "https://cdn.shopify.com/s/files/1/0162/2116/files/5_Smart_Formal_Outfits_For_Men_6.jpg?v=1546066557"
+    },
+    {
+      "id": "tshirt_graphic_01",
+      "title": "T-Shirt Graphic",
+      "brand": "Mango Boy",
+      "price": 10,
+      "currency": "USD",
+      "rating": 0,
+      "reviewsCount": 0,
+      "image": "https://heymale.id/blog/wp-content/uploads/2024/12/outfit-kuliah-pria-1.webp"
+    }
+  ]
+}

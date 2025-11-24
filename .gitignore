@@ -1,0 +1,35 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/pubspec.lock
+
+# Android
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+
+# iOS
+**/ios/.generated/
+**/ios/Flutter/App.framework/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec/
+**/ios/ServiceDefinitions.json/
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
